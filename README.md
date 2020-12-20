@@ -1,6 +1,6 @@
 # Scene Classification
 
-This repositiory contains the code for developing a scene recognition pipeline. The pipeline is based on the Bag-of-words (BoW) model. Visual words are developed using the features extracted from training images. These words are then clustered to form a dictionary. Now, given a test image, one can extract its features to compute a visual word which can then be compared to all visual words present in the training dictionary.In this code, the comparison is done using histogram intersection similarity. The pair of test visual word and training visual word having the highest histogram instersection similarity forms the matched pair.
+This repositiory contains the code for developing a scene recognition pipeline. The pipeline is based on the Bag-of-words (BoW) model. Visual words are developed using the features extracted from training images. These words are then clustered to form a dictionary. Now, given a test image, one can extract its features to compute a visual word which can then be compared to all visual words present in the training dictionary. In this code, the comparison is done using histogram intersection similarity. The pair of test visual word and training visual word having the highest histogram instersection similarity is adjudged the matched pair.
 
 
 
