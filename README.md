@@ -10,5 +10,5 @@ The code implements the above described approach using Spatial Pyramid Matching.
 # References.
 * ['Spatial Pyramid Matching for recognizing natural scene categories'](https://ieeexplore.ieee.org/document/1641019)
 * ['Object categorization by learned universal visual dictionary.'](https://ieeexplore.ieee.org/document/1544935)
-* ['Dataset: Large-scale scene recognition from abbey to zoo'](https://ieeexplore.ieee.org/document/5539970)
+* Dataset: ['Large-scale scene recognition from abbey to zoo'](https://ieeexplore.ieee.org/document/5539970)
 
